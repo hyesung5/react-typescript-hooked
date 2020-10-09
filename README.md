@@ -44,7 +44,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/). -->
 안녕하세요 프로젝트 실행방법입니다.
 
-1.해당프로젝트를 내려받습니다.
-2.내려받은 프로젝트 파일로 이동합니다. (터미널 혹은 vscode 로 이동 또는 폴더를 추가해주세요)
-3.이동 또는 추가를 하셨으면 터미널창에서 yarn을 입력합니다. 입력하지 않을경우 실행이 안됩니다.
-4.과정이 끝나면 yarn start를 입력하시면 프로젝트가 실행이 됩니다.
+1. 해당프로젝트를 내려받습니다.
+2. 내려받은 프로젝트 파일로 이동합니다. (터미널 혹은 vscode 로 이동 또는 폴더를 추가해주세요)
+3. 이동 또는 추가를 하셨으면 터미널창에서 yarn을 입력합니다. 입력하지 않을경우 실행이 안됩니다.
+4. 과정이 끝나면 yarn start를 입력하시면 프로젝트가 실행이 됩니다.
