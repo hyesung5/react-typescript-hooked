@@ -44,7 +44,23 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/). -->
 안녕하세요 프로젝트 실행방법입니다.
 
-1. 해당프로젝트를 내려받습니다.
-2. 내려받은 프로젝트 파일로 이동합니다. (터미널 혹은 vscode 로 이동 또는 폴더를 추가해주세요)
-3. 이동 또는 추가를 하셨으면 터미널창에서 yarn을 입력합니다. 입력하지 않을경우 실행이 안됩니다.
-4. 과정이 끝나면 yarn start를 입력하시면 프로젝트가 실행이 됩니다.
+1. Node.js 설치하기
+https://nodejs.org/en/
+
+2. create-react-app 설치하기
+npm i -g create-react-app
+
+3. Yarn 설치하기
+https://classic.yarnpkg.com/en/docs/install#windows-stable
+
+4. git 설치하기
+https://git-scm.com/download/win
+
+5. git clone
+https://github.com/hyesung5/react-typescript-hooked.git
+
+5. yarn 입력
+터미털 창 혹은 vscode 터미널 창에서 해당트로젝트 디렉토리로 이동후 yarn 입력 입력안할경우 실행이 안됩니다.
+
+6. yarn start 입력
+yarn start 를 입력하여 프로젝트를 실행합니다.
