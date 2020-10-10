@@ -44,57 +44,29 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/). -->
 안녕하세요 프로젝트 실행방법입니다.
 
-1. Node.js 설치하기
+*1.Node.js 설치하기
++아래의 주소로 이동 후 설치 파일을 다운받고 설치를 합니다.
++https://nodejs.org/en/
 
+*2. create-react-app 설치하기
+ +Node.js 설치가 완료되면 터미널창에 아래의 명령어를 입력후 react를 설치합니다.
+ +npm i -g create-react-app
 
-아래의 주소로 이동 후 설치 파일을 다운받고 설치를 합니다.
+*3. Yarn 설치하기
+ +react설치가 완료되면 아래의 주소로 이동후 yarn설치 파일을 받고 설치합니다.
+ +https://classic.yarnpkg.com/en/docs/install#windows-stable
 
+*4. git 설치하기
+ +git을 사용하기 위한 git설치 파일을 받아 설치합니다.
+ +https://git-scm.com/download/win
 
-https://nodejs.org/en/
+*5. git clone
+ +git을 설치 완료 후 프로젝트를 다운받고 싶은 경로로 이동 후 아래의 내용을 입력하여 다운 받습니다.
+ +git clone https://github.com/hyesung5/react-typescript-hooked.git
 
-2. create-react-app 설치하기
+*5. yarn 입력
+ +다운이 완료 되고 나면 터미널 창 혹은 vscode 터미널 창에서 해당프로젝트 경로로 이동후 yarn 입력 합니다.
+ +yran 을 입력 안할경우 실행이 안됩니다.
 
-
-Node.js 설치가 완료되면 터미널창에 아래의 명령어를 입력후 react를 설치합니다.
-
-
-npm i -g create-react-app
-
-3. Yarn 설치하기
-
-
-react설치가 완료되면 아래의 주소로 이동후 yarn설치 파일을 받고 설치합니다.
-
-
-https://classic.yarnpkg.com/en/docs/install#windows-stable
-
-4. git 설치하기
-
-
-git을 사용하기 위한 git설치 파일을 받아 설치합니다.
-
-
-https://git-scm.com/download/win
-
-5. git clone
-
-
-git을 설치 완료 후 프로젝트를 다운받고 싶은 경로로 이동 후 아래의 내용을 입력하여 다운 받습니다.
-
-
-git clone https://github.com/hyesung5/react-typescript-hooked.git
-
-5. yarn 입력
-
-
-다운이 완료 되고 나면 터미널 창 혹은 vscode 터미널 창에서 해당프로젝트 경로로 이동후 yarn 입력 합니다.
-
-
-yran 을 입력 안할경우 실행이 안됩니다.
-
-
-
-6. yarn start 입력
-
-
-yarn을 입력후 모든 과정이 끝나면 yarn start 를 입력하여 프로젝트를 실행합니다.
+*6. yarn start 입력
+ +yarn을 입력후 모든 과정이 끝나면 yarn start 를 입력하여 프로젝트를 실행합니다.
