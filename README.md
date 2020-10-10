@@ -66,7 +66,7 @@ To learn React, check out the [React documentation](https://reactjs.org/). -->
 
 * 5.yarn 입력
   + 다운이 완료 되고 나면 터미널 창 혹은 vscode 터미널 창에서 해당프로젝트 경로로 이동후 yarn 입력 합니다.
-  + yran 을 입력 안할경우 실행이 안됩니다.
+  + yarn 을 입력 안할경우 실행이 안됩니다.
 
 * 6.yarn start 입력
   + yarn을 입력후 모든 과정이 끝나면 yarn start 를 입력하여 프로젝트를 실행합니다.
