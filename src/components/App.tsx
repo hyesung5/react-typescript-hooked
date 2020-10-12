@@ -86,7 +86,7 @@ const App: React.FC = () => {
             type: 'SEARCH_MOVIES_REQUEST',
         });
 
-        const response = await await fetch(`http://www.omdbapi.com/?s=${searchValue}&apikey=4a3b711b`);
+        const response = await fetch(`http://www.omdbapi.com/?s=${searchValue}&apikey=4a3b711b`);
         const search_data = await response.json();
 
         if (search_data.Response === 'True') {

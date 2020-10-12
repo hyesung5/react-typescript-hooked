@@ -61,7 +61,7 @@ To learn React, check out the [React documentation](https://reactjs.org/). -->
   + https://git-scm.com/download/win
 
 * 5.git clone
-  + git을 설치 완료 후 프로젝트를 다운받고 싶은 경로로 이동 후 아래의 내용을 입력하여 다운 받습니다.
+  + git을 설치 완료 후 프로젝트를 다운받고 터미널창에서 다운받고싶은 경로로 이동 후 아래의 내용을 입력하여 다운 받습니다.
   + git clone https://github.com/hyesung5/react-typescript-hooked.git
 
 * 6.yarn 입력
